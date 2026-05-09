@@ -3,8 +3,8 @@
 ## Summary
 - Developer: Thanakorn (6810545620)
 - Course: Computer Programming II (01219116)
-- YouTube Demo: [Link to your video]
-- Proposal PDF: [Link to your PDF in GitHub]
+- YouTube Demo: https://youtu.be/uAk2wD_uZQA?si=7kcIwCLtCp2TX25n
+- Proposal PDF: https://docs.google.com/document/d/1v0OvIOyxGNlGtnMNWCvKRJXvX0qCgdwwEUmh9YkASH8/edit?usp=sharing
 
 ## Motivation
 The motivation behind this project was to combine randomized level design with classic RPG mechanics. I wanted to implement the Recursive Backtracker algorithm for maze generation and integrate it with an Object-Oriented battle system that handles complex data logging for player behavior analysis.
